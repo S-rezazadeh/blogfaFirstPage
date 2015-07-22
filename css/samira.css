@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+}
+
+#container {
+    width: 1000px;
+    height: 900px;
+    border: 2px solid white;
+    margin: auto;
+    margin-right: 200px;
+}
+
+#ax {
+    width: 460px;
+    height: 240px;
+    background-color: rgb(32, 150, 246);
+    margin-top: 200px;
+    margin-right: 100px;
+    float: right;
+    text-align: right;
+}
+
+#about {
+    width: 460px;
+    height: 65px;
+    font-size: 15px;
+    background-color: rgb(32, 150, 246);
+}
+
+p {
+    padding-right: 10px;
+    color: white;
+}
+.signin {
+    margin-top: 160px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    background-color: rgb(250, 250, 250);;
+    width: 234px;
+    height: 333px;
+}
+
+.lbtn {
+    width: 210px;
+    height: 30px;
+    margin: 2px;
+    margin-left: 10px;
+    text-align: center;
+    margin-top: 8px;
+}
+#vasat
+{
+        text-align: center;
+        text-decoration: rtl;
+}
+#vasat a
+{
+
+
+    text-decoration: none;
+}
+
+.button{
+    margin-top: 8px;
+    margin-left: 10px;
+    border:1px solid rgb(32, 150, 246);
+    width: 212px;
+    height: 35px;
+    color: white;
+    background-color: rgb(32, 150, 246);
+}
+#bottom
+{
+    margin-top: 8px;
+    background-color: white;
+    width: 699px;
+    height: 25px;
+    border: 1px solid rgb(221,221,221);
+    margin-left: 200px;
+}
+#menu
+{
+    font-size: 16px;
+
+}
+#menu li
+{
+        
+    float:right;
+    list-style-type: none;
+    width: 100px;
+    height: 25px;
+    text-align: right;
+}
+#news
+{
+    background-color:rgb(250,250,250);
+
+}
+#snews
+{
+      color:rgb(128,128,128);
+}
+#menu a
+{
+    text-decoration: none;
+
+/*    display: block;*/
+margin-right: 5px;
+    margin-left: 5px;
+    
+}
+#sn
+{
+        background-color: white;
+    width: 740px;
+    height: 25px;
+    margin-left: 142px;
+}
+#mmenu
+{
+    margin-top: 8px;    
+    float:right;
+    list-style-type: none;
+    text-align: right;
+}
+#mmenu li
+{
+        
+    float:right;
+    list-style-type: none;
+ font-size: 15px;
+    text-align: right;
+}
+#mmenu a
+{
+     text-decoration: none;
+
+/*    display: block;*/
+margin-right: 1px;
+    margin-left: 1px;
+}
